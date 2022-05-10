@@ -1,2 +1,2 @@
 # BinTree
-binary tree in Python
+Binary tree in Python
